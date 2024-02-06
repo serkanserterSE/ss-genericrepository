@@ -1,0 +1,12 @@
+/Users/serkanserter/Projects/Core/com.ss.genericrepository/com.ss.genericrepository/bin/Debug/net8.0/com.ss.genericrepository.deps.json
+/Users/serkanserter/Projects/Core/com.ss.genericrepository/com.ss.genericrepository/bin/Debug/net8.0/com.ss.genericrepository.dll
+/Users/serkanserter/Projects/Core/com.ss.genericrepository/com.ss.genericrepository/bin/Debug/net8.0/com.ss.genericrepository.pdb
+/Users/serkanserter/Projects/Core/com.ss.genericrepository/com.ss.genericrepository/obj/Debug/net8.0/com.ss.genericrepository.csproj.AssemblyReference.cache
+/Users/serkanserter/Projects/Core/com.ss.genericrepository/com.ss.genericrepository/obj/Debug/net8.0/com.ss.genericrepository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/serkanserter/Projects/Core/com.ss.genericrepository/com.ss.genericrepository/obj/Debug/net8.0/com.ss.genericrepository.AssemblyInfoInputs.cache
+/Users/serkanserter/Projects/Core/com.ss.genericrepository/com.ss.genericrepository/obj/Debug/net8.0/com.ss.genericrepository.AssemblyInfo.cs
+/Users/serkanserter/Projects/Core/com.ss.genericrepository/com.ss.genericrepository/obj/Debug/net8.0/com.ss.genericrepository.csproj.CoreCompileInputs.cache
+/Users/serkanserter/Projects/Core/com.ss.genericrepository/com.ss.genericrepository/obj/Debug/net8.0/com.ss.genericrepository.dll
+/Users/serkanserter/Projects/Core/com.ss.genericrepository/com.ss.genericrepository/obj/Debug/net8.0/refint/com.ss.genericrepository.dll
+/Users/serkanserter/Projects/Core/com.ss.genericrepository/com.ss.genericrepository/obj/Debug/net8.0/com.ss.genericrepository.pdb
+/Users/serkanserter/Projects/Core/com.ss.genericrepository/com.ss.genericrepository/obj/Debug/net8.0/ref/com.ss.genericrepository.dll
