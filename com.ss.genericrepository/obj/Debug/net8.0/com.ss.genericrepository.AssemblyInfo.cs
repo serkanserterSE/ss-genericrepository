@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("com.ss.genericrepository")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+430b062d9164b5d2c338a1f824efaec560ebf98a")]
 [assembly: System.Reflection.AssemblyProductAttribute("com.ss.genericrepository")]
 [assembly: System.Reflection.AssemblyTitleAttribute("com.ss.genericrepository")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

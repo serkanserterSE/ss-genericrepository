@@ -74,7 +74,7 @@ namespace com.ss.genericrepository.concretes
         public void Insert(TEntity entity) => _dbSet.Add(entity);
 
         public void Update(TEntity entity) => _dbSet.Update(entity);
-
+         
         public async Task<TEntity?> GetSingleOrDefaultAsync(Expression<Func<TEntity, bool>> predicate)
             => await _dbSet.SingleOrDefaultAsync(predicate);
 
@@ -87,7 +87,7 @@ namespace com.ss.genericrepository.concretes
         IEnumerator<TEntity> IEnumerable<TEntity>.GetEnumerator() => _dbSet.AsQueryable<TEntity>().GetEnumerator();
 
         IEnumerator IEnumerable.GetEnumerator() => _dbSet.AsQueryable().GetEnumerator();
-
+          
         Type IQueryable.ElementType => _dbSet.AsQueryable<TEntity>().ElementType;
 
         Expression IQueryable.Expression => _dbSet.AsQueryable<TEntity>().Expression;

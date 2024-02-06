@@ -1,14 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "AlCpOTqsCLzYgtjUhw0/bUGz4x+zURWHtRCXgQwnnPx1S6vBN4WJ/4RkxaENCp/A9gEBGtce1XjGqTpng7ANhw==",
+  "dgSpecHash": "KniwrpRk+vPSR4j1afaLd1CQB6xjT1xkHvwNK+Qxwykg3HIJGxUjiBF1jJMzn4sctv9y2pOb2KbI8FJwfpNBTA==",
   "success": true,
-  "projectFilePath": "/Users/serkanserter/Desktop/myprojects/core/generic-repositories/com.ss.genericrepository/com.ss.genericrepository.csproj",
+  "projectFilePath": "/Users/serkanserter/Desktop/myprojects/core/generic-repositories/ss-genericrepository/com.ss.genericrepository/com.ss.genericrepository.csproj",
   "expectedPackageFiles": [
     "/Users/serkanserter/.nuget/packages/microsoft.entityframeworkcore/8.0.1/microsoft.entityframeworkcore.8.0.1.nupkg.sha512",
     "/Users/serkanserter/.nuget/packages/microsoft.entityframeworkcore.abstractions/8.0.1/microsoft.entityframeworkcore.abstractions.8.0.1.nupkg.sha512",
     "/Users/serkanserter/.nuget/packages/microsoft.entityframeworkcore.analyzers/8.0.1/microsoft.entityframeworkcore.analyzers.8.0.1.nupkg.sha512",
+    "/Users/serkanserter/.nuget/packages/microsoft.entityframeworkcore.relational/8.0.1/microsoft.entityframeworkcore.relational.8.0.1.nupkg.sha512",
     "/Users/serkanserter/.nuget/packages/microsoft.extensions.caching.abstractions/8.0.0/microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
     "/Users/serkanserter/.nuget/packages/microsoft.extensions.caching.memory/8.0.0/microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
+    "/Users/serkanserter/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
     "/Users/serkanserter/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
     "/Users/serkanserter/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
     "/Users/serkanserter/.nuget/packages/microsoft.extensions.logging/8.0.0/microsoft.extensions.logging.8.0.0.nupkg.sha512",

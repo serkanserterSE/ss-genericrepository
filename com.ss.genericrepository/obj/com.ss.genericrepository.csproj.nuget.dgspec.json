@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/serkanserter/Desktop/myprojects/core/generic-repositories/com.ss.genericrepository/com.ss.genericrepository.csproj": {}
+    "/Users/serkanserter/Desktop/myprojects/core/generic-repositories/ss-genericrepository/com.ss.genericrepository/com.ss.genericrepository.csproj": {}
   },
   "projects": {
-    "/Users/serkanserter/Desktop/myprojects/core/generic-repositories/com.ss.genericrepository/com.ss.genericrepository.csproj": {
+    "/Users/serkanserter/Desktop/myprojects/core/generic-repositories/ss-genericrepository/com.ss.genericrepository/com.ss.genericrepository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/serkanserter/Desktop/myprojects/core/generic-repositories/com.ss.genericrepository/com.ss.genericrepository.csproj",
+        "projectUniqueName": "/Users/serkanserter/Desktop/myprojects/core/generic-repositories/ss-genericrepository/com.ss.genericrepository/com.ss.genericrepository.csproj",
         "projectName": "com.ss.genericrepository",
-        "projectPath": "/Users/serkanserter/Desktop/myprojects/core/generic-repositories/com.ss.genericrepository/com.ss.genericrepository.csproj",
+        "projectPath": "/Users/serkanserter/Desktop/myprojects/core/generic-repositories/ss-genericrepository/com.ss.genericrepository/com.ss.genericrepository.csproj",
         "packagesPath": "/Users/serkanserter/.nuget/packages/",
-        "outputPath": "/Users/serkanserter/Desktop/myprojects/core/generic-repositories/com.ss.genericrepository/obj/",
+        "outputPath": "/Users/serkanserter/Desktop/myprojects/core/generic-repositories/ss-genericrepository/com.ss.genericrepository/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/serkanserter/.nuget/NuGet/NuGet.Config"
@@ -40,6 +40,14 @@
           "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
               "target": "Package",
               "version": "[8.0.1, )"
             }
